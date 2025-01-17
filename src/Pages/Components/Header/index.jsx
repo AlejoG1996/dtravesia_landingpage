@@ -19,12 +19,12 @@ const Header = () => {
     },
     {
       title: "ALMUERZOS",
-      description: "Nuestros desayunos típicos celebran la rica tradición culinaria de nuestra región. Ofrecemos una variedad de platillos que combinan sabores autóctonos con un toque casero y delicioso, ideales para comenzar el día con energía",
-      imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/almuerzos.png"
+      description: "Nuestros almuerzos caseros están inspirados en la tradición gastronómica de nuestra tierra, con un toque auténtico que hace de cada platillo una experiencia única. Preparados con ingredientes frescos y de calidad, nuestros almuerzos son ideales para quienes buscan un sabor reconfortante y lleno de calidez, perfecto para compartir en buena compañía.",
+      imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/almuerzo.png"
     },
     {
       title: "PARRILLA",
-      description: "Nuestros desayunos típicos celebran la rica tradición culinaria de nuestra región. Ofrecemos una variedad de platillos que combinan sabores autóctonos con un toque casero y delicioso, ideales para comenzar el día con energía",
+      description: "Nuestros asados y cortes de carne ahumados son una verdadera celebración del sabor. Cada pieza es cuidadosamente seleccionada y cocinada a la perfección, con técnicas tradicionales de ahumado que realzan su jugosidad y sabor. Ya sea que disfrutes de una carne tierna y sabrosa o de un asado perfectamente dorado, cada bocado te transportará a un mundo de sabores intensos y auténticos",
       imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/bg_home.JPG"
     },
   ];
