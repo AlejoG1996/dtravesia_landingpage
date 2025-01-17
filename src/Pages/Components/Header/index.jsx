@@ -25,7 +25,7 @@ const Header = () => {
     {
       title: "PARRILLA",
       description: "Nuestros asados y cortes de carne ahumados son una verdadera celebración del sabor. Cada pieza es cuidadosamente seleccionada y cocinada a la perfección, con técnicas tradicionales de ahumado que realzan su jugosidad y sabor. Ya sea que disfrutes de una carne tierna y sabrosa o de un asado perfectamente dorado, cada bocado te transportará a un mundo de sabores intensos y auténticos",
-      imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/parrilla.JPG"
+      imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/parrillaahumado.JPG"
     },
   ];
 
