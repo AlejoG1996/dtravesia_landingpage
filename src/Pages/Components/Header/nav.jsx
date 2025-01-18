@@ -57,8 +57,8 @@ const Nav = (props) => {
               </span>
             </button>
 
-            <button className={` font-semibold rounded-md border-[#2E8B57] px-6 py-2 duration-200 hidden 
-                                md:block 
+            <button className={` font-semibold rounded-md border-[#2E8B57] px-6 py-2 duration-300 hidden 
+                                md:block transition-colors  ease-linear
                                 ${isScrolled ? "text-white hover:text-white bg-[#2E8B57] hover:bg-[#277C49] " :
                 "text-white hover:bg-primary "}`}>
               Iniciar sesión

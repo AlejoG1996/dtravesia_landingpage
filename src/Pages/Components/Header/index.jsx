@@ -19,12 +19,12 @@ const Header = () => {
     },
     {
       title: "ALMUERZOS",
-      description: "Nuestros almuerzos caseros están inspirados en la tradición gastronómica de nuestra tierra, con un toque auténtico que hace de cada platillo una experiencia única. Preparados con ingredientes frescos y de calidad, nuestros almuerzos son ideales para quienes buscan un sabor reconfortante y lleno de calidez, perfecto para compartir en buena compañía.",
+      description: "Nuestros almuerzos caseros, inspirados en la tradición local, ofrecen platillos auténticos preparados con ingredientes frescos y de calidad. Son ideales para quienes buscan un sabor reconfortante, perfecto para compartir en buena compañía",
       imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/almuerzo.png"
     },
     {
       title: "PARRILLA",
-      description: "Nuestros asados y cortes de carne ahumados son una verdadera celebración del sabor. Cada pieza es cuidadosamente seleccionada y cocinada a la perfección, con técnicas tradicionales de ahumado que realzan su jugosidad y sabor. Ya sea que disfrutes de una carne tierna y sabrosa o de un asado perfectamente dorado, cada bocado te transportará a un mundo de sabores intensos y auténticos",
+      description: "Nuestros asados y cortes de carne ahumados destacan por su sabor intenso, gracias a técnicas tradicionales que realzan su jugosidad y sabor. Cada pieza es seleccionada y cocinada a la perfección para ofrecer una experiencia auténtica y deliciosa.",
       imgSrc: "https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/parrillaahumado.JPG"
     },
   ];

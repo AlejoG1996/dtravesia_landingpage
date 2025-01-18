@@ -1,5 +1,6 @@
 //componenttes
 import Categories from "./categories";
+import Products from "./products";
 
 const MenuProducts = () => {
     return (
@@ -10,11 +11,23 @@ const MenuProducts = () => {
             </div>
 
             {/*categories*/}
-            
-            <Categories/>
-            
+            <Categories />
+
             {/* Productos */}
-            
+            <Products></Products>
+
+            <footer class=" ts-footer ">
+                <img src="https://raw.githubusercontent.com/AlejoG1996/dtravesia_landingpage/refs/heads/gh-pages/foot_bg.png" 
+                className="w-full"></img>
+                <div class="h-[200px]">
+                    <div class="footer-logo-area text-center">
+                        <a class="footer-logo" href="#">
+                            CONTACTO
+                        </a>
+                    </div>
+
+                    </div>
+            </footer>
         </>
     )
 };

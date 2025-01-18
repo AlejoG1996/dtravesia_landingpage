@@ -90,56 +90,56 @@ const Carousel = () => {
                     <SwiperSlide className=' bg-[#2E8B57]  shadow-lg custom-slide rounded-lg flex flex-col justify-between hover:bg-[#277C49] transition-colors duration-500 ease-linear'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-transform duration-500 ease-linear">
                             <i className="fa-solid fa-list-check text-4xl text-white"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-white">Todo</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-white uppercase">Todo</h3>
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-egg text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Desayunos</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Desayunos</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-drumstick-bite text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Almuerzos</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Almuerzos</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-stroopwafel text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Entradas</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Entradas</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-fire text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Parrila y Ahumado</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Parrila y Ahumado</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-people-carry-box text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Para compartir</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Para compartir</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-wine-glass text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Bebidas</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Bebidas</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-martini-glass-citrus text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Cocteles</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Cocteles</h3>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='bg-gray-50 shadow-lg custom-slide rounded-lg flex flex-col justify-between  hover:bg-gray-100 transition-all ease-in-out duration-500'>
                         <div className="rounded-lg p-4 text-center flex-grow hover:scale-105 transition-all ease-in-out duration-500">
                             <i className="fa-solid fa-tags text-4xl text-gray-600"></i>
-                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600">Promos</h3>
+                            <h3 className="text-center mt-2 mb-2 font-semibold text-gray-600 uppercase">Promos</h3>
                         </div>
                     </SwiperSlide>
                 </Swiper>
